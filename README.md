@@ -1,2 +1,8 @@
 # Q_Learn_as_PhD
 这是一个私人记录，开设于2026年1月4日，主要目的是记录自己在博士期间的技能成长。实际上学习过程从2025年9月1日刚入学的时候就已经开始了。
+
+# Mathematics 
+
+## Calculus
+**https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1**
+
