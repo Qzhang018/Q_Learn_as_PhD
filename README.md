@@ -18,6 +18,9 @@ I find a super comprehensive resources for learning CS, here is the link: [csdiy
 
 I plan to separate this part from CS, as it is clearly my main focus.
 
+### Books
+ I know there are a banch of books hanging ouver there however here I provide to myself this booklist for AI : [Machine Learning for Human: AI reading list](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a)
+
 ## Cognitive Science
 
 ## Decision Science
