@@ -5,6 +5,14 @@ This is a private repository used to store my learning materials and record my s
 
 ## Calculus
 I took two online calculus course from Sep 2025 to Oct 2025. 
-{MIT 18.01 Single Variable Calculus, Fall 2006}https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
-{MIT 18.02 Multivariable Calculus, Fall 2007}https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
+[MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
+[MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+
+## PLANS
+
+# Computer Science
+
+## PLANS: Learning Path
+
+I find a super comprehensive resources for learning CS, here is the link:[csdiy.wiki-CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 
