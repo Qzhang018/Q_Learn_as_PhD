@@ -73,6 +73,9 @@ Uni Courses(Note that this is from the recommandation from [csdiy.wiki-CS学习�
 [CMU: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/)
 [Introduction to Flow Matching and Diffusion Models 2026](https://diffusion.csail.mit.edu/2026/index.html)
 
+Also, note this is for developers to use LLMs, not for daily usage:
+[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/courses/chatgpt-prompt-eng)
+
 ### Machine Learning in Advance
 After have a solid foundation of AI&CS and want to move forward to compete with researchers working in Comuter Science Field(General), click [here](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/roadmap/) to check what to learn next.
 
