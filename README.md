@@ -57,9 +57,11 @@ I plan to separate this part from CS, as it is clearly my main focus.
 - [MIT 6.7960: Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
 - [MIT6.5940: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
 - [ DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
+- [Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 
 ### Reinforcement Learning
 - [CS285: Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- [CS234: Reinforcement Learning Winter 2026](https://web.stanford.edu/class/cs234/)
 
 ### Generative AI
 
