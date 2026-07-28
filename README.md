@@ -38,43 +38,30 @@ However, I never intended to pursue a career as a computer scientist. This link 
 
 I plan to separate this part from CS, as it is clearly my main focus.
 
-Courses by Andrew Ng:
+### Introducationary
+
+- [Harvard CS50: Introduction to AI with Python](https://cs50.harvard.edu/ai/)
+  
+- [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp25/)
+
+- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/)
+
+### Machine Learning
 
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_cx_dr_bau_gg_pmax_pr_s1_en_m_hyb_24-04_desktop&campaignid=21160830418&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6495613033&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=21150459093&gbraid=0AAAAADdKX6b4c7iBvxIeUBvDWsYNiIJJ_&gclid=EAIaIQobChMIzKGelremkwMVs8pEBx2IZSqxEAAYASAAEgKya_D_BwE)
 
-- [ChatGPT Prompt Engineering for Developers](https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project)
-  
-- [ DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
-
-Uni Courses(Note that this is from the recommandation from [csdiy.wiki-CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)):
-
-- [Harvard CS50: Introduction to AI with Python](https://cs50.harvard.edu/ai/)
-
-- [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp25/)
-
 - [CS229: Machine Learning](https://cs229.stanford.edu/)
 
-- [MIT 6.7960: Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
 
+ ### Deep Learning
+- [MIT 6.7960: Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
+- [MIT6.5940: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
+- [ DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
+
+### Reinforcement Learning
 - [CS285: Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
-- [MIT6.5940: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
-  
-- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/)
-
-### Media and Online infulencer
-[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
-
-[LLM papers](https://github.com/AmberLJC/LLMSys-PaperList)
-
-[Trending of LLM](https://github.com/Hannibal046/Awesome-LLM)
-
-[3Blue1Brown](https://www.youtube.com/@3blue1brown)
-
-[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
-
-
-### LLM Related
+### Generative AI
 
 [6.S978 Deep Generative Models](https://mit-6s978.github.io/schedule.html)
 
@@ -89,13 +76,25 @@ Uni Courses(Note that this is from the recommandation from [csdiy.wiki-CS学习�
 [Introduction to Flow Matching and Diffusion Models 2026](https://diffusion.csail.mit.edu/2026/index.html)
 
 
+### Media and Online influencer
+[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+
+[LLM papers](https://github.com/AmberLJC/LLMSys-PaperList)
+
+[Trending of LLM](https://github.com/Hannibal046/Awesome-LLM)
+
+[3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
+[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+
+
 Also, note this is for developers to use LLMs, not for daily usage:
 [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/courses/chatgpt-prompt-eng)
 
-### Machine Learning in Advance
-After have a solid foundation of AI&CS and want to move forward to compete with researchers working in Comuter Science Field(General), click [here](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/roadmap/) to check what to learn next.
 
-### Books
+After have a solid foundation of AI&CS and want to move forward to compete with researchers working in Commuter Science Field(General), click [here](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/roadmap/) to check what to learn next.
+
+### Read List
 I know there are a bunch of books hanging ouver there however here I provide to myself this booklist for AI : [Machine Learning for Human: AI reading list](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a)
 
 ## 4 Cognitive Science
