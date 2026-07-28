@@ -12,12 +12,15 @@ This is the foundation of everything: Computer Science, Economics and Psychology
 
 ### Calculus
 I took two online calculus course from Sep 2025 to Oct 2025. 
+
 1. [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
-2. [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+
+3. [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 
 ### Linear Algebra
 1. [MIT18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/)
-2. [3B1B Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+   
+3. [3B1B Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### Information theory and Entropy
 [MIT6.050J: Information theory and Entropy](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/resources/mit6_050js08_textbook/)
@@ -38,7 +41,9 @@ I plan to separate this part from CS, as it is clearly my main focus.
 Courses by Andrew Ng:
 
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_cx_dr_bau_gg_pmax_pr_s1_en_m_hyb_24-04_desktop&campaignid=21160830418&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6495613033&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=21150459093&gbraid=0AAAAADdKX6b4c7iBvxIeUBvDWsYNiIJJ_&gclid=EAIaIQobChMIzKGelremkwMVs8pEBx2IZSqxEAAYASAAEgKya_D_BwE)
+
 - [ChatGPT Prompt Engineering for Developers](https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project)
+  
 - [ DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
 
 Uni Courses(Note that this is from the recommandation from [csdiy.wiki-CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)):
@@ -59,19 +64,30 @@ Uni Courses(Note that this is from the recommandation from [csdiy.wiki-CS学习�
 
 ### Media and Online infulencer
 [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+
 [LLM papers](https://github.com/AmberLJC/LLMSys-PaperList)
+
 [Trending of LLM](https://github.com/Hannibal046/Awesome-LLM)
+
 [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
 [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+
 
 ### LLM Related
 
 [6.S978 Deep Generative Models](https://mit-6s978.github.io/schedule.html)
+
 [Large Language Model Systems, CMU 11868, Spring 2025](https://llmsystem.github.io/llmsystem2025spring/)
+
 [Large Language Model Applications Spring 2026](https://cmu-llms.org/)
+
 [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/spring2025/index.html)
+
 [CMU: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/)
+
 [Introduction to Flow Matching and Diffusion Models 2026](https://diffusion.csail.mit.edu/2026/index.html)
+
 
 Also, note this is for developers to use LLMs, not for daily usage:
 [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/courses/chatgpt-prompt-eng)
