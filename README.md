@@ -118,7 +118,7 @@ Before jumping into computational cognitive modelling (what a fancy name), I sho
 
 I also put this article here: [The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information](https://www.musanim.com/miller1956/), this is the first experiment when undergraduate students encounter this field. It is fantastic!
 
-Other books may also helpful:
+Other books may also be helpful:
 1. Butz, M. V., & Kutter, E. F. (2017). How the mind comes into being: Introducing cognitive science from a functional and computational perspective. Oxford University Press.
 2. Sobel, C. P., & Li, P. (2015). The cognitive sciences: An interdisciplinary approach. Sage Publications.
 3. Friedenberg, J., Silverman, G., & Spivey, M. J. (2021). Cognitive science: an introduction to the study of mind. Sage Publications.
