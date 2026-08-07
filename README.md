@@ -114,6 +114,19 @@ Other books that might prove useful at specific stages:
 3. Hautus, M. J., Macmillan, N. A., & Creelman, C. D. (2021). *Detection Theory: A User's Guide*. Routledge.
 4. West, B. J. (2011). *Decision Making: A Psychophysics Application of Network Science*. World Scientific Publishing.
 
+Before jumping into computational cognitive modelling (what a fancy name), I should read **Gödel, Escher, Bach: an Eternal Golden** by Douglas R Hofstadter. It is a good book to remind everyone that this field has a tight link to computer science.
+
+I also put this article here: [The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information](https://www.musanim.com/miller1956/), this is the first experiment when undergraduate students encounter this field. It is fantastic!
+
+Other books may also helpful:
+1. Butz, M. V., & Kutter, E. F. (2017). How the mind comes into being: Introducing cognitive science from a functional and computational perspective. Oxford University Press.
+2. Sobel, C. P., & Li, P. (2015). The cognitive sciences: An interdisciplinary approach. Sage Publications.
+3. Friedenberg, J., Silverman, G., & Spivey, M. J. (2021). Cognitive science: an introduction to the study of mind. Sage Publications.
+4. Margaret A. Boden. (2008). Mind as machine: A history of cognitive science. Oxford University Press.
+5. Reisberg, D. (1997). Cognition: Exploring the science of the mind. WW Norton & Co.
+6. Sun, R. (2008). The Cambridge handbook of computational psychology (pp. 3-20). New York: Cambridge University Press.
+7. Busemeyer, J. R., Wang, Z., Townsend, J. T., & Eidels, A. (2015). The Oxford handbook of computational and mathematical psychology. Oxford University Press.
+
 ### Computational Cognitive Modelling
 This field focuses on building decision models, and I plan to dive deeper into it. I currently have two books on my reading list:
 
