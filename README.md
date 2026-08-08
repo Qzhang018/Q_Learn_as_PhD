@@ -1,10 +1,15 @@
 # General Information
 
-This is a private repository used to store my learning materials and record my self-learning process. It was created on January 4, 2026.
+This repository serves as a storage for my learning materials and a record of my learning journey. It was created on January 4, 2026, and functions as a map of my knowledge.
 
-When I first joined the Economics section at RUG, I asked my advisors, Pim and Zsombor, what I should learn. After months of independent research, I realized that asking "what to learn" in a vacuum wasn't the right approach. Now, my learning philosophy is simple: when I get stuck during my research due to a knowledge gap, I first locate the missing concept within my overall knowledge map, and then I find the right resource to learn it. 
+When I first joined the Economics section at the University of Groningen (RUG), I asked my advisors, Pim and Zsombor, what I should learn. After months of independent research, I realized that asking "what to learn" in a vacuum was not the right approach. My learning philosophy has since evolved into something simple: whenever I encounter a knowledge gap that hinders my research, I first locate the missing concept within my overall knowledge map and then find the right resource to address it.
 
-I treat the sources in this repository strictly as tools—learning them only when I need them, and applying them immediately afterward. Whenever I complete or read a source, I leave a brief comment.
+I treat the sources in this repository strictly as tools—learning from them only when necessary and applying the knowledge immediately afterward. Whenever I complete or read a source, I leave a brief comment for future reference.
+
+The categorization is based on my subjective perspective. These fields are vast, having developed over decades, and each could warrant a bachelor’s or even a master’s degree. Even someone aspiring to become a polymath would need a lifetime to master all the knowledge listed in the following fields—only to end up, as I jokingly put it, as a "human bookshelf." Keep this in mind if you happen to read this far. Also, please forgive me for not being overly meticulous about the history of science or disciplinary conventions. If you have any comments or suggestions, feel free to email me at: chientsechang@gmail.com.
+
+
+***Due to copyright considerations, the digital version of the books is not provided here.***
 
 ## Table of Contents
 - [1 Mathematics](#1-mathematics)
