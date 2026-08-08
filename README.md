@@ -23,7 +23,7 @@ I treat the sources in this repository strictly as tools—learning them only wh
 ---
 ## 1 Mathematics 
 
-Mathematics is the foundation of everything: Computer Science, Economics, and Psychology. 
+Mathematics is the foundation of everything: Computer Science, Economics, and Psychology. In a very general sense, what I should know are: How to proof, Calculus, Linear Algebra, Probability, Set Theory and a little touch of real analysis, complex analysis.
 
 ### Calculus
 I took two online calculus courses from September to October 2025:
