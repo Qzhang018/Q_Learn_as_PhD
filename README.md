@@ -28,7 +28,7 @@ The categorization is based on my subjective perspective. These fields are vast,
 ---
 ## 1 Mathematics 
 
-Mathematics is the foundation of everything: Computer Science, Economics, and Psychology. In a very general sense, what I should know are: How to proof, Calculus, Linear Algebra, Probability, Set Theory and a little touch of real analysis, complex analysis.
+Mathematics is the foundation of everything: Computer Science, Economics, and Psychology. In a broad sense, the key areas I should focus on are: Calculus, Linear Algebra, Probability, Differential Equations (useful in most cogsci/cs field), and a basic understanding of Set Theory, Real Analysis and Complex Analysis with good proof techniques (needed in advanced economic modelling).
 
 ### Calculus
 I took two online calculus courses from September to October 2025:
