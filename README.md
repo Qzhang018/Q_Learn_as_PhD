@@ -133,6 +133,11 @@ This field focuses on building decision models, and I plan to dive deeper into i
 1. [Bayesian Models of Cognition: Reverse Engineering the Mind](https://www.amazon.nl/-/en/Bayesian-Models-Cognition-Reverse-Engineering/dp/0262049414)
 2. [Computational Modeling of Cognition and Behavior](https://www.cambridge.org/core/books/computational-modeling-of-cognition-and-behavior/A4A90098E7CB9A58E5D030F408639D04)
 
+In the end, I have put these Github links for some books and resources. Cognitive scientists are more close to computer science under the huge umbrella of "Mind as Machine". The books in other people's repositories haven't be screened by myself.
+
+1. [Cognitive ScienceBooks](https://github.com/manjunath5496/Cognitive-Science-Books)
+2. [awesome cogsci](https://github.com/abi-aryan/awesome-cogsci)
+3. [awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science)
 ---
 
 ## 5 Decision Science
