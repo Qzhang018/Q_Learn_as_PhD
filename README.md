@@ -179,7 +179,9 @@ For economics, I came across these three foundational books early on:
 After my first year, I spent the summer of 2026 self-studying this book by Hal Varian, which bridges the gap between Book 1 and Book 2 above:
 - [Varian, H. R. (1992). *Microeconomic Analysis*.](https://www.amazon.nl/-/en/Microeconomic-Analysis-Hal-R-Varian/dp/0393957357)
 
-Some other books I plan to read:
+Interesting thing is that Varian starts his book from firm input-output analysis, which is different from modern years MicroTheory. If anyone wants a short book from consumer theory, see this: Lecture Notes in Microeconomic Theory: The Economic Agent - Second Edition by Ariel Rubinstein
+
+Some other books:
 - *A Course In Microeconomic Theory* by David M. Kreps (Some of my hardcore micro-theorist professors love referring to this book for proofs).
 - *The Foundations of Behavioral Economic Analysis* by Sanjit Dhami (A textbook used in my first-year courses).
 
