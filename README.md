@@ -23,6 +23,7 @@ The categorization is based on my subjective perspective. These fields are vast,
 - [5 Decision Science](#5-decision-science)
 - [6 Statistics](#6-statistics)
 - [7 Economics](#7-economics)
+  - [Binary Decision Theory](#binary-decision-theory)
 - [8 Journals](#8-journals)
 
 ---
@@ -47,6 +48,7 @@ I took two online calculus courses from September to October 2025:
 
 ### Probability Theory
 - [UCB CS126: Probability Theory](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html)
+
 
 ---
 
@@ -184,6 +186,14 @@ Interesting thing is that Varian starts his book from firm input-output analysis
 Some other books:
 - *A Course In Microeconomic Theory* by David M. Kreps (Some of my hardcore micro-theorist professors love referring to this book for proofs).
 - *The Foundations of Behavioral Economic Analysis* by Sanjit Dhami (A textbook used in my first-year courses).
+
+### Binary Decision Theory 
+Because I have to learn some math to complete my research on binary choice, I must read following books:
+Ian Chiswell - Mathematical logic
+Ian Stewart - Concepts of Modern Mathematics
+Kreps - Notes On The Theory Of Choice (1988)
+Fishburn - Utility Theory for Decision Making (1970)
+Falmagne - Elements of Psychophysical Theory (2002) 
 
 ---
 
