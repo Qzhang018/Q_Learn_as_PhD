@@ -189,10 +189,15 @@ Some other books:
 
 ### Binary Decision Theory 
 Because I have to learn some math to complete my research on binary choice, I must read following books:
+
 Ian Chiswell - Mathematical logic
+
 Ian Stewart - Concepts of Modern Mathematics
+
 Kreps - Notes On The Theory Of Choice (1988)
+
 Fishburn - Utility Theory for Decision Making (1970)
+
 Falmagne - Elements of Psychophysical Theory (2002) 
 
 ---
