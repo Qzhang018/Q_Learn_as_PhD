@@ -134,6 +134,12 @@ Other books may also be helpful:
 6. Sun, R. (2008). The Cambridge handbook of computational psychology (pp. 3-20). New York: Cambridge University Press.
 7. Busemeyer, J. R., Wang, Z., Townsend, J. T., & Eidels, A. (2015). The Oxford handbook of computational and mathematical psychology. Oxford University Press.
 
+Readers can also see how important psychophysics is in economic decision making from books:
+1. Capra, C. M., Croson, R. T., Rigdon, M. L., & Rosenblat, T. S. (Eds.). (2020). Handbook of experimental game theory. Edward Elgar Publishing.
+2. Fischhoff, B. (1988). Judgment and decision making.
+3. Fischhoff, B. (2013). Risk analysis and human behavior. Routledge.
+
+
 ### Computational Cognitive Modelling
 This field focuses on building decision models, and I plan to dive deeper into it. I currently have two books on my reading list:
 
